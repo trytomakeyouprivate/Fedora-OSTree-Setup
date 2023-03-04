@@ -138,5 +138,35 @@
             "aid": "",
             "sdesc": "",
             "source": ""
+        },
+    "KWrite": {
+            "aid": "kwrite",
+            "sdesc": "Simple KDE Text Editor. Unnessecary as Kate is preinstalled.",
+            "source": "rpm"
+        },
+    "KMag": {
+            "aid": "kmag",
+            "sdesc": "KDE Screen magnifier.",
+            "source": "rpm"
+        },
+    "KMouseTool": {
+            "aid": "kmousetool",
+            "sdesc": "Wiggles the mouse automatically to keep Apps running",
+            "source": "rpm"
+        },
+    "QDBusViewer": {
+            "aid": "qt5-qdbusviewer",
+            "sdesc": "Qt Developer Tool",
+            "source": "rpm"
+        },
+    "RPM Firefox": {
+            "aid": "firefox firefox-langpacks",
+            "sdesc": "The preinstalled Fedora Firefox. Misses drivers and is not developed from Mozilla directly.",
+            "source": "rpm"
+        },
+    "Emoji Picker": {
+            "aid": "cldr-emoji-annotation",
+            "sdesc": "Useful search and copy tool for Emojis.",
+            "source": "rpm"
         }
 }
